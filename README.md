@@ -91,9 +91,9 @@ This project is a backend service designed to reconcile and identify customer id
 
 ### Deployment
 
-This application can be deployed using services like Render, Heroku, or Vercel. Once deployed, update the `DEPLOYMENT_URL` below with your live endpoint.
+This application can be deployed using services like Render, Heroku, or Vercel. Once deployed, update the `https://identity-reconciliation-eight.vercel.app/` below with your live endpoint.
 
-**Deployment URL:** [DEPLOYMENT_URL]
+**Deployment URL:** [https://identity-reconciliation-eight.vercel.app/]
 
 ### Project Structure
 
